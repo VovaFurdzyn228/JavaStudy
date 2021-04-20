@@ -8,6 +8,7 @@ bin-release/
 .settings/
 
 .idea
+JavaStudy.iml
 # Executables
 *.swf
 *.air
